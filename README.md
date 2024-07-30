@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Saabiq Saha
 - 👀 I’m interested in building ML models
-- 🌱 I’m currently learning tensorflow keras
+- 🌱 I’m currently learning Tensorflow Keras
 - 💞️ I’m looking to collaborate on projects fo disease classification
 
 <!---
